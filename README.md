@@ -41,19 +41,6 @@ I am currently looking for a **Junior Frontend Developer** position where I can 
 
 ---
 
-## 📌 Featured Projects (Pinned)
-> **You should pin these projects on your profile once you update it.**
-
-- 🛒 **Online Shop Project** – HTML/CSS/PHP, focus on structure & UI  
-- 🎨 **Angular Frontend Components** – (I can help you upload these to GitHub if needed)  
-- 🧪 **Cypress Testing Demo** – demonstrates your testing skills  
-- 🌐 **WordPress Website** – example project with MySQL integration  
-- 🤖 **Usability & Accessibility Demo** – small demo inspired by your Bachelor thesis work
-
-If you'd like, I can write **professional README files for each of these projects** — just let me know!
-
----
-
 ## 📫 Contact
 
 - ✉️ **Email:** larissasowada@gmail.com  
