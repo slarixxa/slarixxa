@@ -45,7 +45,7 @@ I am currently looking for a **Junior Frontend Developer** position where I can 
 
 - ✉️ **Email:** larissasowada@gmail.com  
 - 🌍 **Location:** Pulheim / Cologne, Germany  
-- 🔗 **LinkedIn (I can help you optimize your profile if you want)**  
+- 🔗 **LinkedIn: https://www.linkedin.com/in/larissa-sowada-5357a2373/ 
 
 ---
 
