@@ -1,5 +1,5 @@
 ## Hi there 👋,  I'm Larissa Sowada
-<h3 align="center">Junior Frontend Developer | Angular • TypeScript • Web Accessibility</h3>
+<h3 align="center">Junior Frontend Developer | React • HTML • Web Accessibility</h3>
 
 ---
 
