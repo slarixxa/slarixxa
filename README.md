@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Junior Frontend Developer with a **Bachelor’s degree in Digital Technologies and Coding** and hands-on experience in **React**, **HTML**, **CSS** **usability**, **web accessibility**, and **end-to-end testing**.  
+I'm a Junior Frontend Developer with a **Bachelor’s degree in Digital Technologies and Coding** and hands-on experience in **React**, **HTML**, **CSS**, **usability**, **web accessibility**, and **end-to-end testing**.  
 During my time at **Covestro**, I contributed to real-world projects, developing frontend components and helping build AI-driven applications.
 
 I work in a structured and focused way, learn quickly, and enjoy creating intuitive, clean, and user-friendly interfaces.  
