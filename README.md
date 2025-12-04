@@ -16,16 +16,16 @@ I am currently looking for a **Junior Frontend Developer** position where I can 
 ## 🔧 Tech Stack
 
 ### **Frontend**
-- Angular • TypeScript  
-- HTML • CSS • SCSS  
-- React (basics)
+-  React (basics) 
+- HTML • CSS • SCSS
+- JavaScript 
+- Angular • TypeScript
 
 ### **Testing**
 - Cypress (E2E Testing)
 
 ### **Backend / Tools**
-- WordPress  
-- PHP  
+- WordPress   
 - MySQL / MariaDB  
 - Git & GitHub  
 - Figma (for UI/Design)
